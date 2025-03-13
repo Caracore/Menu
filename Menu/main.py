@@ -1,4 +1,5 @@
 import webbrowser, subprocess, shadowpc as sdp, blackjack as bj # Implementer
+# soon ready:
 
 class Menu:
     def __init__(self):
